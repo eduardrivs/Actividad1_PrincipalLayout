@@ -1,0 +1,42 @@
+﻿p {
+    padding: 20px 20px;
+    color: white;
+}
+
+.title {
+    font-size: 170%;
+}
+
+.subtitle {
+    font-size: 130%;
+}
+
+.text {
+    margin-top: 2%;
+    font-size: 100%;
+}
+
+.row {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.header {
+    background-color: #581845;
+}
+
+.main {
+    background-color: #900C3F;
+}
+
+.aside {
+    background-color: #C70039;
+}
+
+.article {
+    background-color: #FF5733;
+}
+
+.footer {
+    background-color: #900C3F;
+}
