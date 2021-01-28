@@ -1,0 +1,24 @@
+﻿.cabezera {
+    background-color: #75cfb8;
+    color: white;
+}
+
+.main {
+    background-color: #bbdfc8;
+    color: white;
+}
+
+.aside {
+    background-color: #f0e5d8;
+    color: white;
+}
+
+.contenido {
+    background-color: #ffc478;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
